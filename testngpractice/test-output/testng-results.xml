@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-23T07:41:52Z" name="Default suite" finished-at="2022-06-23T07:42:33Z" duration-ms="40537">
+    <groups>
+    </groups>
+    <test started-at="2022-06-23T07:41:52Z" name="Default test" finished-at="2022-06-23T07:42:33Z" duration-ms="40537">
+      <class name="LoginPage.NewTest">
+        <test-method signature="Testing()[pri:0, instance:LoginPage.NewTest@76c3e77a]" started-at="2022-06-23T13:11:52Z" name="Testing" finished-at="2022-06-23T13:12:33Z" duration-ms="40519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testing -->
+      </class> <!-- LoginPage.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
